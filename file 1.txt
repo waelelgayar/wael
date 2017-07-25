@@ -1,0 +1,4 @@
+file 1 
+stash 2
+
+amending 
