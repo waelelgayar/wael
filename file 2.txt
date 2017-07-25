@@ -1,6 +1,0 @@
-file 2 contents
-updated 2
-
-same line conflict in master
-added in v2 branch
-
