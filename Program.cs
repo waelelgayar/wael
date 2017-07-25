@@ -10,7 +10,7 @@ namespace gitTest
     {
         static void Main(string[] args)
         {
-            // change 1
+            // change 1 plus conflict
         }
     }
 }
